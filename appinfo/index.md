@@ -9,36 +9,36 @@ layout: post
 
 | iOS 14.1+ |
 | --------- |
-| iPhone 12 (iOS 14.6 |
-| iPhone 12 Pro (iOS 14.6 |
-| iPhone 12 Pro Max(iOS 14.6 |
-| iPhone 12 mini (iOS 14.6 |
-| iPhone 11 (iOS 14.6 |
-| iPhone 11 Pro (iOS 14.6 |
-| iPhone 11 Pro Max (iOS 14.6 |
-| iPhone XR (iOS 14.6 |
-| iPhone Xs (iOS 14.6 |
-| iPhone Xs Max (iOS 14.6 |
-| iPhone X (iOS 14.6 |
-| iPhone 8 (iOS 14.6 |
-| iPhone 8 Plus (iOS 14.6 |
-| iPhone 7 (iOS 14.6 |
-| iPhone 7 Plus (iOS 14.6 |
-| iPhone 6s (iOS 14.6 |
-| iPhone 6s Plus (iOS 14.6 |
-| iPhone SE (iOS 14.6 |
-| iPhone SE gen 2 (iOS 14.6 |
-| iPod Touch (7th gen) (iOS 14.6 |
-| iPad 2019 (7th gen) (iOS 14.6 |
-| iPad Pro 12” (2nd Gen) (iOS 14.6 |
-| iPad Pro 10.5” (2nd Gen) (iOS 14.6 |
-| iPad Pro 12” (iOS 14.6 |
-| iPad Pro 9” (iOS 14.6 |
-| iPad 9.7” (2017)(iOS 14.6 |
-| iPad Mini 5 (iOS 14.6 |
-| iPad Mini 4 (iOS 14.6 |
-| iPad Air (3rd gen) (iOS 14.6 |
-| iPad Air 2 (iOS 14.6 |
+| iPhone 12 (iOS 14.1+) |
+| iPhone 12 Pro (iOS 14.1+) |
+| iPhone 12 Pro Max(iOS 14.1+) |
+| iPhone 12 mini (iOS 14.1+) |
+| iPhone 11 (iOS 14.1+) |
+| iPhone 11 Pro (iOS 14.1+) |
+| iPhone 11 Pro Max (iOS 14.1+) |
+| iPhone XR (iOS 14.1+) |
+| iPhone Xs (iOS 14.1+) |
+| iPhone Xs Max (iOS 14.1+) |
+| iPhone X (iOS 14.1+) |
+| iPhone 8 (iOS 14.1+) |
+| iPhone 8 Plus (iOS 14.1+) |
+| iPhone 7 (iOS 14.1+) |
+| iPhone 7 Plus (iOS 14.1+) |
+| iPhone 6s (iOS 14.1+) |
+| iPhone 6s Plus (iOS 14.1+) |
+| iPhone SE (iOS 14.1+) |
+| iPhone SE gen 2 (iOS 14.1+) |
+| iPod Touch (7th gen) (iOS 14.1+) |
+| iPad 2019 (7th gen) (iOS 14.1+) |
+| iPad Pro 12” (2nd Gen) (iOS 14.1+) |
+| iPad Pro 10.5” (2nd Gen) (iOS 14.1+) |
+| iPad Pro 12” (iOS 14.1+) |
+| iPad Pro 9” (iOS 14.1+) |
+| iPad 9.7” (2017)(iOS 14.1+) |
+| iPad Mini 5 (iOS 14.1+) |
+| iPad Mini 4 (iOS 14.1+) |
+| iPad Air (3rd gen) (iOS 14.1+) |
+| iPad Air 2 (iOS 14.1+) |
 
 
 # Changelog
