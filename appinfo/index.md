@@ -43,6 +43,13 @@ layout: post
 
 # Changelog
 
+#### Version 1.0.0 (6) (2021-12-03)
+
+- Grey screen bug after sending transaction-see detail issue - Git #48
+- Fixed - Changed everywhere from Face ID to Biometric ID  - Git #49
+- Default server changes, and auto updation of port in settings/private server config
+- Fixed - Default fee bug
+
 #### Version 1.0.0 (5) (2021-11-24)
 
 - Fixed - FaceID bug glitching out. Git #35
