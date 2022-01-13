@@ -43,6 +43,34 @@ layout: post
 
 # Changelog
 
+#### Version 1.0.0 (7) (2022-01-13)
+
+**New Features:**
+- UI Optimisation for all small screen devices and bigger font (configured in settings)
+- Tap on memo to preview full memo in a toast
+- Now we see # of confirmations in our app under a transaction
+- Blurred the layout when app enters background 
+- Without balance showing send button won’t respond. It’s disabled. We should colour the disabled button properly so they are distinguishable from enabled buttons.
+- QR Code logical changes - tap to view bigger QR code - request money
+
+**Bug Fixes:**
+- Minor UI glitch, balance incorrectly showing zero right after a send finished.
+- Address not opening up the send amount screen #61
+- UI Glitch - Request Money Screen
+- 1-2x app background or killed trigger notification
+- Rescan options screen (toast bug)
+
+**Additional Notes:**
+- Upgraded our codebase to latest upstream code.
+- ZIP-321 Add Payment URI support + Deep Link integration
+- ZIP-316 NU5 support + Unified Addresses included in code
+
+**Open Bugs:**
+- iPhone-SE 2020 Big font size bug - Already closed, but need to observe further.
+- Receive button not responding to tap gesture
+- When setting up the wallet, on words #8 and #12, the next button caused it to go back to the previous word. It then worked correctly when pressing it the 2nd time around. And Minor bug while setting up. When you create wallet it takes you back one step.
+- Bug related to same session - change pin flow
+
 #### Version 1.0.0 (6) (2021-12-03)
 
 - Grey screen bug after sending transaction-see detail issue - Git #48
