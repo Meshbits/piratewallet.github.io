@@ -43,6 +43,18 @@ layout: post
 
 # Changelog
 
+#### Version 1.0.0 (8) (2022-01-22)
+
+**Bug fixes and improvements:**
+
+- Largest font size issues for 14.x
+    - Congratulations screen!
+    - Re-Enter PIN
+    - Receive ARRR
+    - Login/Onboarding screen
+- Bug related to screen reloading the seed phrase on landing on 14.x OS
+- Bug related to screen reloading the word # on landing on 14.x OS
+
 #### Version 1.0.0 (7) (2022-01-13)
 
 **New Features:**
