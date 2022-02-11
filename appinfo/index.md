@@ -43,6 +43,22 @@ layout: post
 
 # Changelog
 
+#### Version 1.0.0 (10) (2022-02-10)
+
+- If the device is running low on storage space (below 200MB) - the app will throw an informative error on the home screen.
+Following issues popped up due to upstream merge, and all of these are fixed in this release:
+- Fixed Background syncing process. 
+- Fixed deep link issues.
+- Fixed blur background when the app is moved to the app switcher.
+
+#### Version 1.0.0 (9) (2022-01-27)
+
+**Bug fixes and improvements:**
+
+- Fixed iOS 14.x crashes on "receive" button tap
+- Fixed iOS 14.x crashes on launch (fresh install) - caused by Create new wallet/Recovery phrase button dynamic font types (unsupported XCode error)
+- Fixed swipe gesture leading to back/forth on words/recovery phrase screen
+
 #### Version 1.0.0 (8) (2022-01-22)
 
 **Bug fixes and improvements:**
