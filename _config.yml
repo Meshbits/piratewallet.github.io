@@ -1,6 +1,6 @@
 title: Pirate Wallet
 # email: your-email@example.com
-ios_app_store: https://testflight.apple.com/join/ErKPPcj8
+ios_app_store: https://apps.apple.com/app/arrr-pirate-chain-wallet/id1590729869
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
