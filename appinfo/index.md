@@ -43,6 +43,13 @@ layout: post
 
 # Changelog
 
+#### Version 1.1.0 (15) (2022-03-11)
+
+- Turned off background sync as per apple guidelines for public release.
+- Fixed deep link issue when app wasn’t running and someone tries to tap on it
+- Code improvements - Removed additional scene
+- Fix - Scene changes related to iOS14.x
+
 #### Version 1.0.0 (10) (2022-02-10)
 
 - If the device is running low on storage space (below 200MB) - the app will throw an informative error on the home screen.
