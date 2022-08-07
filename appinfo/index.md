@@ -43,6 +43,10 @@ layout: post
 
 # Changelog
 
+#### Version 1.1.1 (1) (2022-07-06)
+
+- UI Improvements and Bug Fixes
+
 #### Version 1.1.0 (15) (2022-03-11)
 
 - Turned off background sync as per apple guidelines for public release.
